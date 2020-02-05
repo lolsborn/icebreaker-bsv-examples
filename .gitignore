@@ -1,0 +1,9 @@
+*.bin
+*.rpt
+*.blif
+*.asc
+*.json
+*.log
+core
+*.bo
+top.v
